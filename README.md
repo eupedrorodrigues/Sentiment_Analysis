@@ -1,4 +1,4 @@
-# 🤗 Sentiment Analysis
+# Sentiment Analysis
 
 <br>
 
